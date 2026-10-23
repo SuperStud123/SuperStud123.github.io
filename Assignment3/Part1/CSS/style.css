@@ -25,3 +25,20 @@ job-title {
 color: darkslategray;
 font-weight: bold;
 }
+
+ul {
+  background-color: white;
+  border: 5px solid purple;
+  padding: 50px;
+  border-radius: 20px;
+}
+
+a {
+  color: green;
+}
+
+align-self:hover,
+align-self:focus {
+  color: green;
+  text-decoration: none;
+}
